@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project contains two automated tests written in Cypress. These tests are designed to validate the functionality of a web application [Magento Software Testing Board](https://magento.softwaretestingboard.com/), ensuring that key features such as navigating item pages, filtering items, adding and removing items to and from the cart, verifying item details, and placing orders are working correctly.
+This project contains two automated tests written in Cypress by Eglė Mozūraitytė. These tests are designed to validate the functionality of a web application [Magento Software Testing Board](https://magento.softwaretestingboard.com/), ensuring that key features such as navigating item pages, filtering items, adding and removing items to and from the cart, verifying item details, and placing orders are working correctly.
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@ Before you can set up and run the tests, make sure you have the following instal
 
 - **Node.js**: Ensure you have Node.js installed. You can download it from [Node.js official site](https://nodejs.org/).
 - **npm**: npm (Node Package Manager) is installed automatically with Node.js. Verify the installation by running `npm -v` in your terminal.
-- **Visual Studio Code (VSC)** Download and install Visual Studio Code from [here](https://code.visualstudio.com/).
+- **Visual Studio Code (VSC)**: Download and install Visual Studio Code from [here](https://code.visualstudio.com/).
 
 ## Setup Instructions
 
@@ -19,13 +19,13 @@ Before you can set up and run the tests, make sure you have the following instal
 First, you need to clone the project repository to your computer using Git. Open your terminal and run:
 
 ```bash
-git clone https://github.com/tinymeadow8/homework-task-august.git
-cd homework-task-august
+git clone https://github.com/tinymeadow8/magento-tests.git
+cd magento-tests
 ```
 
 ### Open the Project in Visual Studio Code
 
-After cloning the repository, open Visual Studio Code (VSC). In VSC, go to **File > Open Folder...**, and select the project directory **homework-task-august** that you just cloned.
+After cloning the repository, open Visual Studio Code (VSC). In VSC, go to **File > Open Folder...**, and select the project directory **magento-tests** that you just cloned.
 
 ### Install Dependencies
 
